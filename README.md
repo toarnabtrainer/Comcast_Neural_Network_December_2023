@@ -1,7 +1,5 @@
 # Comcast_Neural_Network_December_2023
 
-# Comcast_Neural_Network_September_2023
-
 **Meeting Link:**<br>
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTIzNGMxNzYtOTRlNS00MGNjLWEwMTgtZTJmY2EyYmZlZWE1%40thread.v2/0?context=%7b%22Tid%22%3a%22906aefe9-76a7-4f65-b82d-5ec20775d5aa%22%2c%22Oid%22%3a%22c24f4917-7fd6-41ef-b0cd-9370e525ed30%22%7d
 
